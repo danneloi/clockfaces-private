@@ -1,3 +1,0 @@
-{"name":"Ping","version":1,"bgColor":0,"delay":500,
- "setup":[{"type":"text","x":2,"y":8,"content":"OK","font":"big","fgColor":65535}],
- "sprites":[],"loop":[]}
