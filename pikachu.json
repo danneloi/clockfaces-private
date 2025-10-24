@@ -1,0 +1,28 @@
+{
+  "name": "Pikachu Clockface",
+  "version": 1,
+  "author": "danneloi",
+  "bgColor": 0,
+  "delay": 1000,
+  "setup": [
+    {
+      "type": "image",
+      "x": 0,
+      "y": 0,
+      "image": "iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAAXNSR0IArs4c6QAAAJ9QTFRFFMHsuJskoIceqo8h17ct7Mkx78wy370u6cUxwKMm5MIv4bExdYp/zK4sl3sohXAZtn8s2J8x05MxQZKuuocxnWwhmwkgzhEvtw0onEQxtCkn415ptDtF////5+fnYBQaYhAbA0pcaBYdjYprvqhLniYwqqqqmJRkWpakanRwD4CdTEARFJ/CCoalcZKSqZxYFMHtdlwYE7rkE6/WAQEBQQD6cAAAAqtJREFUeNrt1dtyqjAYhuEQki8JO9GqtZu1b6toFYHc/7WtREORFmc0nvY5ZJp3/mw6km/fvl1B6/rG9fqm5dat67X/cmfvu34TCiPdeAZ0IGBFO5/AfhfCeWmIjxCtgvgo0Ar9BkjhsBXxOoEIRzzxu4IATvpOvMCJk5r4UO36inhJBA5EfkduGSDO34kfWHI8vdt7D2DX2/n9AzLLRknSNLVXIGSwOIJgufV4ySMh0ZKiTJrrjuL9BX1Sra+Zok4ifKGueJArgQFitb90AwyDxJZcpCk5BvHyknPY7wsYLMWA8v3SG8g2/7KhGdju7H2u165ub0Bt9I83hQGRWteD+95xnhb20TYBgFC/bTTFVwLgy2Zg7FIcXsvKTAKDbbTWDF9RDmD5dYatwEHZNJlSDAirimIwcPyzcwH+r1gsFg8CEAI9cpTatTSGIZfrMwGox3vDFhzBYDFdvFEbGEv3W3kmALUwgUUAI0JnpN9+boSZcBrjIFrVw4Fo9hGoTgqV3tlTZfVdjiOR7AcDPDCBRwXjV2VkElaqtc44dqR2HwC5/Rxw5vcLBevvqzWDJZWmDKl96gGcZT0cUCMFFzj4HaAV1CZQl3DK039AfBAhuoAVwsoyZQO2oHAkSKdAJ2Au8Pz09Pz6Wgn7bW6P1gasUMBQAekkEh845bAenoznwwDRw73xSN3t/9lUhtak04ToKOYCVu7u1pqn4VGljX5gJvFBhl0gt9/Z3AUYjqK0+hSoixgdBmtq1k85Pgcc5bbQWo85PuF0RN1HujicQYBTnPUCE4HzmD3ERY6+kpyqJr26RE9E5zOa5bFER6zIqbs8RkeOYw6HG3TEJFg4O92oIj1NMYlxYjIRIjq+TEpp1A4yFWgtSd92OpboxBNjPI4hOU6keTta5Nb9BygFVSDvfsOmAAAAAElFTkSuQmCC",
+      "id": "vljevu"
+    },
+    {
+      "type": "datetime",
+      "x": 18,
+      "y": 4,
+      "content": "H:i",
+      "font": "",
+      "fgColor": 0,
+      "bgColor": 5661,
+      "id": "depiei"
+    }
+  ],
+  "sprites": [],
+  "loop": []
+}
